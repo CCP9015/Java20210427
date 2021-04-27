@@ -1,6 +1,16 @@
+fju/edu/box/Box3.java
+ fju.edu.box.Box3
+fju/edu/box/Box6.java
+ fju.edu.box.Box6
+fju/edu/box/Box2.java
+ fju.edu.box.Box2
 fju/edu/box/Box.java
  fju.edu.box.Box
 fju/edu/box/Box1.java
  fju.edu.box.Box1
+fju/edu/box/Box5.java
+ fju.edu.box.Box5
+fju/edu/box/Box4.java
+ fju.edu.box.Box4
 fju/edu/box/Test.java
  fju.edu.box.Test
