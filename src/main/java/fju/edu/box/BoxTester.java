@@ -8,14 +8,14 @@ public class BoxTester {
        ArrayList list = new ArrayList();
        list.add("Hello");
        /*八種資料型態
-       Integer a = new Integer(123);
+       Integer a = new Integer(123);數字
        Short s = new Short();
-       Byte b = new Byte();
+       Byte b = new Byte();16位數
        Long l = new Long();
-       Double d = new Double();
-       Float f = new Float();
-       Boolean boo = new Boolean();
-       Character c = new Character();
+       Double d = new Double();小數點
+       Float f = new Float();小數點
+       Boolean boo = new Boolean();判斷
+       Character c = new Character();字串
        */
        list.add(124563);
        String name = (String)list.get(0);
