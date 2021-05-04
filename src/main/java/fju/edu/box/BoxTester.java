@@ -6,6 +6,7 @@ import java.util.List;
 public class BoxTester {
     public static void main(String[] args) {
        ArrayList list = new ArrayList();
+       //異質
        list.add("Hello");
        /*八種資料型態
        Integer a = new Integer(123);數字
@@ -25,6 +26,8 @@ public class BoxTester {
         Box box = new Box1();
        list.add(box);
        list.add(false);
+       ArrayList<Box> boxes = new ArrayList<Box>();
+       //限定值
 
 
 
