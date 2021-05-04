@@ -18,9 +18,14 @@ public class BoxTester {
        Character c = new Character();
        */
        list.add(124563);
-       Box box = new Box1();
+       String name = (String)list.get(0);
+       String name2 = (String)list.get(1);
+       //轉型
+       //限定同質
+        Box box = new Box1();
        list.add(box);
        list.add(false);
+
 
 
     }
