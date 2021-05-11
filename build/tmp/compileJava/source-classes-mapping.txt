@@ -2,19 +2,32 @@ fju/edu/box/Box3.java
  fju.edu.box.Box3
 fju/edu/box/Box6.java
  fju.edu.box.Box6
+anon/Test2.java
+ anon.Test2
 fju/edu/box/Tester.java
  fju.edu.box.Tester
+fju/edu/box/Test.java
+ fju.edu.box.Test
+anon/WeatherReproter.java
+ anon.WeatherReproter
+fju/edu/box/Box1.java
+ fju.edu.box.Box1
+fju/edu/box/Box4.java
+ fju.edu.box.Box4
+anon/Printer.java
+ anon.Printer
 fju/edu/box/Box2.java
  fju.edu.box.Box2
 fju/edu/box/BoxTester.java
  fju.edu.box.BoxTester
+anon/Patrick.java
+ anon.Patrick
 fju/edu/box/Box.java
  fju.edu.box.Box
-fju/edu/box/Box1.java
- fju.edu.box.Box1
+anon/Reporter.java
+ anon.Reporter
 fju/edu/box/Box5.java
  fju.edu.box.Box5
-fju/edu/box/Box4.java
- fju.edu.box.Box4
-fju/edu/box/Test.java
- fju.edu.box.Test
+anon/Reproter.java
+ anon.Reproter
+ anon.Reproter$1

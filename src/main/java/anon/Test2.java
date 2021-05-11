@@ -1,4 +1,4 @@
-package fju.edu.box;
+package anon;
 
 public class Test2 {
 //    Reporter reporter = new Reporter();

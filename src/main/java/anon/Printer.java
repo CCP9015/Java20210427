@@ -1,4 +1,4 @@
-package fju.edu.box;
+package anon;
 
 public abstract class Printer {
     public Printer() {
